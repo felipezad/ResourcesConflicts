@@ -1,0 +1,4 @@
+rootProject.name = "ResourcesWithConflict"
+include ':app'
+include ':first'
+include ':second'
